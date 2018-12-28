@@ -78,7 +78,7 @@ git branch -d *branch-name*
 * Add a remote repo
 
 ```
-git remote add origin remote repository URL
+git remote add origin *remote-repository-URL*
 ```
 
 * Verify the remote repo URL
