@@ -4,7 +4,7 @@
 
 Firstly open a Terminal window and cd into the required directory
 
->     cd path/to/directory
+    cd path/to/directory
 
 * Initiate a new git repository
 
